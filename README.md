@@ -14,4 +14,8 @@ A Python CLI tool to view saved WiFi passwords and signal strength.
 - Windows OS (netsh support)
 
 ## Run:
-python xxx.py
+python wifi-password-viewer.py
+
+
+##
+⚠️ For educational purposes only. Use responsibly.
